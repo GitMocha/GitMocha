@@ -1,4 +1,5 @@
 ## Socials:
+<img src="https://discordapp.com/api/guilds/1074529599737831525/widget.png?style=banner2" alt="Discord Banner 2"/>
 
 ## Stats:
 <p align="center">
@@ -11,3 +12,5 @@
     <img src="https://skillicons.dev/icons?i=git,lua,cpp,react" />
   </a>
 </p>
+
+        
