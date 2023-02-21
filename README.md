@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <a href=https://github-readme-stats.vercel.app/api/top-langs/?username=GitMocha&layout=compact><a>
+    <a href=https://github.com/GitMocha><img width="420" src=https://github-readme-stats.vercel.app/api/top-langs/?username=GitMocha&layout=compact><a>
 </p>
 
 ## Skills:
