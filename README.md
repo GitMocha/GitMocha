@@ -1,5 +1,5 @@
 ## Socials:
-![Discord](https://discordapp.com/api/guilds/1074529599737831525/widget.png?style=banner1)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<381299320651120647>)
 
 ## Stats:
 <p align="center">
