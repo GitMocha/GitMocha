@@ -2,7 +2,7 @@
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=381299320651120647)
 
 ## Random
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtf62nkzz4inelurs2zlip54oy&cover_image=false&theme=default&show_offline=true&background_color=000000&bar_color=0df8dc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 ## Stats:
 <p align="center">
@@ -16,4 +16,9 @@
   </a>
 </p>
  
-        
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qtf62nkzz4inelurs2zlip54oy&cover_image=false&theme=default&show_offline=true&background_color=000000&bar_color=0df8dc&bar_color_cover=false" />
+  </a>
+</p>
+         
