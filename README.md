@@ -1,5 +1,5 @@
 
-![GitMocha GitHub stats](https://github-readme-stats.vercel.app/api?username=GitMochaZ&show_icons=true&theme=vue-dark)
+![GitMocha GitHub stats](https://github-readme-stats.vercel.app/api?username=GitMocha&show_icons=true&theme=vue-dark)
 
 
 <p align="center">
