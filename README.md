@@ -1,5 +1,5 @@
 ## Socials:
-![Discord](https://discordapp.com/api/guilds/1074529599737831525/widget.png?style=shield)
+![Discord](https://discordapp.com/api/guilds/[1074529599737831525]/widget.png?style=banner1)
 
 ## Stats:
 <p align="center">
