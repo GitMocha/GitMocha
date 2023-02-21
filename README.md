@@ -1,7 +1,7 @@
 ## Discord:
 <p align="center">
- <a href=https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xADzt22Gxa<a>
-    </p>
+ <a href=https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white src=https://discord.gg/xADzt22Gxa<a>
+</p>
 
 ## Stats:
 <p align="center">
