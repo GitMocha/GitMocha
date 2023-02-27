@@ -20,7 +20,7 @@
 ## Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,lua,cpp,css,html,js" />
+    <img src="https://skillicons.dev/icons?i=git,lua,cpp,css,html,js,blender,discord,ps" />
   </a>
 </p>
  
