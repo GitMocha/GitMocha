@@ -1,10 +1,3 @@
-## Discord:
-<p align="center">
-  <a href="https://discord.gg/xADzt22Gxa">
-    <img src="https://dcbadge.vercel.app/api/server/xADzt22Gxa" />
-  </a>
-</p>
-
 ## Spotify
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
