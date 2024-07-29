@@ -1,7 +1,7 @@
 ## Spotify
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="[https://spotify-github-profile.vercel.app/api/view?uid=31qtf62nkzz4inelurs2zlip54oy](https://spotify-github-profile.kittinanx.com)&cover_image=false&theme=default&show_offline=true&background_color=000000&bar_color=0df8dc&bar_color_cover=false" />
+    <img src="(https://spotify-github-profile.kittinanx.com)&cover_image=false&theme=default&show_offline=true&background_color=000000&bar_color=0df8dc&bar_color_cover=false" />
   </a>
 </p>
 
