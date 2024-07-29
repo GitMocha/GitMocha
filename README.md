@@ -1,10 +1,3 @@
-## Spotify
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="(https://spotify-github-profile.kittinanx.com)&cover_image=false&theme=default&show_offline=true&background_color=000000&bar_color=0df8dc&bar_color_cover=false" />
-  </a>
-</p>
-
 ## Stats:
 <p align="center">
     <a href=https://github.com/GitMocha><img width="420" src=https://github-readme-stats.vercel.app/api?username=GitMocha&count_private=true&show_icons=true&hide_border=true&theme=vue-dark><a>
